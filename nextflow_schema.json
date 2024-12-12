@@ -1,5 +1,5 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema",
+    "$schema": "https://json-schema.org/draft-07/schema",
     "$id": "https://raw.githubusercontent.com/ferlab/template/master/nextflow_schema.json",
     "title": "ferlab/mypipeline pipeline parameters",
     "description": "minimalist nf-core template",
